@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    protocall (0.1.0)
+    protocall (0.1.2)
 
 GEM
   remote: https://rubygems.org/
