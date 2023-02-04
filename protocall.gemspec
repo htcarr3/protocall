@@ -6,17 +6,17 @@ Gem::Specification.new do |spec|
   spec.name = "protocall"
   spec.version = Protocall::VERSION
   spec.authors = ["Thomas Carr"]
-  spec.email = ["htcarr3@gmail.com"]
+  spec.email = ["9591402+htcarr3@users.noreply.github.com"]
 
   spec.summary = "Ruby Service Objects"
   spec.description = "A simple framework for building functional classes in Ruby"
-  spec.homepage = "https://github.com/nilclassy/protocall"
+  spec.homepage = "https://github.com/htcarr3/protocall"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.1.2"
+  spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/nilclassy/protocall"
-  spec.metadata["changelog_uri"] = "https://github.com/nilclassy/protocall/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/htcarr3/protocall"
+  spec.metadata["changelog_uri"] = "https://github.com/htcarr3/protocall/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
